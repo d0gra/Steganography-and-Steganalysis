@@ -1,3 +1,4 @@
+https://github.com/d0gra/Steganography-and-Steganalysis
 *** Steganography by LSB substitution ***
 Usage:  [-e][-d] <source file> <destination file> <text file> -e : Add text to image  -d : Get text from image 
 
